@@ -34,7 +34,7 @@ Look at the 6 pictures above. Describe what these people did yesterday.
 What was the weather like where you live yesterday? What did your wear?
 # Como estava o tempo ontem onde voce mora ontem? O que voce vestiu? 
 
-Yesterday was warm in the morning, but in the afternoon it rained. My family and I were to the beach in the morning. I wear just shorts and havainas.
+Yesterday It was warm in the morning, but in the afternoon it rained. My family and I went to the beach in the morning. I wore just shorts and havainas.
 # Ontem estava quente pela manha, mas a tarde choveu. Minha família e eu fomos à praia pela manhã. Usei apenas shorts e havainas.
 ```
 
@@ -44,6 +44,9 @@ When did you last go on a vacation? Where did you go and what did you do?
 # Quando voce saiu de ferias pela ultima vez? Onde voce foi e o que voce fez?
 
 It has been 1 year and 6 months since I went on vacation. That's when my daughter Lua was born.
+'# Faz 1 ano e 6 meses que saí de férias. Foi quando minha filha Lua nasceu. 
+
+It has been 1 year and a half since I went on vacation. That's when my daughter Lua was born.
 '# Faz 1 ano e 6 meses que saí de férias. Foi quando minha filha Lua nasceu. 
 ```
 
